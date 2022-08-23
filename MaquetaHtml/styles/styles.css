@@ -1,3 +1,13 @@
 body{
   background-color: rgba(232, 232, 232, 0.915);
+  display: flex;
+  flex-direction: column;
+  width: 960px;
+  color: black;
+  font-family: 'Bebas Neue', cursive;
 }
+.carrito{
+  background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(112,31,32,1) 100%);
+}
+
